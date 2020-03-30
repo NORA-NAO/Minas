@@ -1,0 +1,29 @@
+*{
+	text-align: center;
+	padding: 0;
+	 
+
+}
+
+ .uno{
+	border: 1px solid rgb(255,160,40);
+	margin: 2rem;
+	position: absolute;
+		/*nos posicionamos en el centro del navegador*/
+		top:50%;
+		left:50%;
+		width:410px;
+		/*la mitad del width*/
+		margin-left:-205px;
+		height: 420px;
+		margin-top: -210px;
+
+} 
+
+
+.imagen{
+ 	width: 100px;
+	height: 100px;
+	
+
+}
